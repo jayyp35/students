@@ -64,7 +64,6 @@ function showDetails(name,age,gender,sports){
 
 //function to close details panel
 function closeDetails(){
-    console.log("hi");
     detailsBox.style.transform = 'translateX(500px)'
 }
 
